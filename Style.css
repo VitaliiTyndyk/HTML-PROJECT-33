@@ -27,7 +27,7 @@
 
 .lato-black {
     font-family: "Lato", sans-serif;
-    font-weight: 900;
+    font-weight: 924;
     font-style: normal;
 }
 
@@ -54,11 +54,10 @@ body{
     /*font-family: "Montserrat", sans-serif;*/
 }
 .first-section{
-    width: 100vw;
-    height: 100vh;
+    width: 1440px;
+    height: 924px;
     display: flex;
     flex-direction: column;
-    /*margin-bottom: 329px;*/
 }
 .header-1{
     padding: 45px 120px 0 120px;
@@ -179,11 +178,11 @@ body{
     padding-right: 73px;
 }
 .two-section{
-    height: 100vh;
-    width: 100vw;
+    width: 1440px;
+    height: 1024px;
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
     flex-direction: column;
     /*margin-bottom: 329px;*/
 }
@@ -219,8 +218,8 @@ body{
     /*margin-left: 50px;*/
 }
 .three-section{
-    height: 100vh;
-    width: 100vw;
+    width: 1440px;
+    height: 1024px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -401,8 +400,8 @@ body{
     margin: 16px 70px 16px 70px;
 }
 .four-section{
-    width: 100vw;
-    height: 100vh;
+    width: 1440px;
+    height: 1024px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -447,8 +446,8 @@ body{
     letter-spacing: -0.5px;
 }
 .five-section{
-    width: 100vw;
-    height: 47vh;
+    width: 1440px;
+    height: 437px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
